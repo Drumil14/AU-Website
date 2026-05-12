@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="675" viewBox="0 0 900 675" role="img" aria-labelledby="title desc">
+  <title id="title">Pavement investigation placeholder</title>
+  <desc id="desc">Neutral engineering placeholder showing pavement layers and survey markers.</desc>
+  <rect width="900" height="675" fill="#f8fafc"/>
+  <rect x="0" y="430" width="900" height="245" fill="#dbe3ed"/>
+  <path d="M0 462h900v42H0z" fill="#94a3b8"/>
+  <path d="M0 516h900v159H0z" fill="#cbd5e1"/>
+  <path d="M85 524h730" stroke="#64748b" stroke-width="5" stroke-dasharray="34 24"/>
+  <rect x="84" y="136" width="280" height="210" rx="8" fill="#ffffff" stroke="#cbd5e1" stroke-width="3"/>
+  <path d="M122 295h204M122 254h204M122 213h204M122 172h204" stroke="#dbe3ed" stroke-width="6"/>
+  <path d="M512 192l172 236H340l172-236z" fill="#e2e8f0" stroke="#64748b" stroke-width="4"/>
+  <path d="M512 192v236M426 310h172" stroke="#64748b" stroke-width="4"/>
+  <circle cx="512" cy="192" r="18" fill="#2563eb"/>
+  <rect x="662" y="322" width="52" height="130" rx="4" fill="#facc15"/>
+  <path d="M688 322v-64" stroke="#0f172a" stroke-width="7"/>
+  <path d="M632 452h112" stroke="#0f172a" stroke-width="7"/>
+</svg>

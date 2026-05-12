@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  --background: #ffffff;
+  --foreground: #0f172a;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+}
+
+::selection {
+  background: #dbeafe;
+  color: #172554;
+}
+
+.text-balance {
+  text-wrap: balance;
+}
+
+.field-label {
+  @apply text-sm font-semibold text-steel-700;
+}
+
+.field-input {
+  @apply mt-2 w-full rounded-md border border-steel-200 bg-white px-4 py-3 text-sm text-steel-900 outline-none transition focus:border-brand-600 focus:ring-4 focus:ring-brand-100;
+}

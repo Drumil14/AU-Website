@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="675" viewBox="0 0 900 675" role="img" aria-labelledby="title desc">
+  <title id="title">Working platform placeholder</title>
+  <desc id="desc">Neutral engineering placeholder showing a construction platform, crane mat, and bearing grid.</desc>
+  <rect width="900" height="675" fill="#f8fafc"/>
+  <rect x="0" y="430" width="900" height="245" fill="#e2e8f0"/>
+  <path d="M112 516h676" stroke="#94a3b8" stroke-width="8"/>
+  <path d="M145 476h610l72 108H73l72-108z" fill="#ffffff" stroke="#64748b" stroke-width="5"/>
+  <path d="M205 500h490M175 538h550M146 576h608M248 476l-28 108M362 476l-12 108M476 476v108M590 476l12 108M704 476l28 108" stroke="#cbd5e1" stroke-width="4"/>
+  <path d="M318 428V210l180 218" stroke="#0f172a" stroke-width="9" fill="none"/>
+  <path d="M318 238l-62 190M318 238l86 190" stroke="#64748b" stroke-width="6"/>
+  <rect x="274" y="410" width="90" height="36" rx="4" fill="#facc15" stroke="#0f172a" stroke-width="4"/>
+  <circle cx="520" cy="456" r="24" fill="#2563eb"/>
+  <path d="M520 428v-86" stroke="#0f172a" stroke-width="6"/>
+  <rect x="586" y="152" width="190" height="124" rx="8" fill="#ffffff" stroke="#cbd5e1" stroke-width="3"/>
+  <path d="M616 188h130M616 222h94" stroke="#cbd5e1" stroke-width="8"/>
+</svg>

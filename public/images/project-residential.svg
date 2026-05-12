@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="675" viewBox="0 0 900 675" role="img" aria-labelledby="title desc">
+  <title id="title">Residential site classification placeholder</title>
+  <desc id="desc">Neutral engineering placeholder showing a home outline, soil layers, and test locations.</desc>
+  <rect width="900" height="675" fill="#f8fafc"/>
+  <rect x="0" y="456" width="900" height="219" fill="#dbe3ed"/>
+  <path d="M102 456h696" stroke="#94a3b8" stroke-width="5"/>
+  <path d="M248 314l202-144 202 144v142H248V314z" fill="#ffffff" stroke="#64748b" stroke-width="5"/>
+  <path d="M322 456V342h94v114M478 456V338h96v118" stroke="#64748b" stroke-width="5" fill="none"/>
+  <path d="M220 321l230-164 230 164" stroke="#2563eb" stroke-width="10" fill="none"/>
+  <path d="M168 498h564M168 548h564M168 598h564" stroke="#94a3b8" stroke-width="4" stroke-dasharray="20 18"/>
+  <circle cx="214" cy="498" r="15" fill="#2563eb"/>
+  <circle cx="420" cy="548" r="15" fill="#2563eb"/>
+  <circle cx="664" cy="498" r="15" fill="#2563eb"/>
+  <rect x="86" y="132" width="160" height="92" rx="8" fill="#ffffff" stroke="#cbd5e1" stroke-width="3"/>
+  <path d="M112 162h108M112 192h78" stroke="#cbd5e1" stroke-width="7"/>
+</svg>
