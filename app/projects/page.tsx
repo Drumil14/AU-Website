@@ -8,7 +8,7 @@ import { projects } from "@/data/site";
 export const metadata: Metadata = {
   title: "Projects",
   description:
-    "Representative DTM Geocivil Consulting project placeholders for geotechnical, pavement, residential, and construction support work."
+    "Selected DTM Geocivil Consulting project experience across hospitals, infrastructure, pavements, and data centres."
 };
 
 export default function ProjectsPage() {
@@ -16,8 +16,8 @@ export default function ProjectsPage() {
     <>
       <PageHeader
         eyebrow="Projects"
-        title="Project and gallery placeholders"
-        description="A clean project section ready for real project photography, case studies, and completed site examples."
+        title="Selected project experience"
+        description="A clean text-only project section for now, ready for photography and case studies when available."
       />
       <section className="bg-white py-20 sm:py-24">
         <Container>

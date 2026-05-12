@@ -30,14 +30,13 @@ export type Project = {
   title: string;
   type: string;
   description: string;
-  image: string;
 };
 
 export const company = {
   name: "DTM Geocivil Consulting",
   legalName: "DTM Geocivil Consulting Pty Ltd",
   tagline: "Geotechnical and civil engineering consulting for practical, buildable project outcomes.",
-  address: "2/34 Hourigan Avenue, Clayton VIC 3168",
+  address: "26 Macrina St, Oakleigh East VIC 3166",
   phone: "1300 550 871",
   mobile: "0424 445 653",
   email: "info@dtmgeocivil.com.au"
@@ -171,25 +170,44 @@ export const capabilities = [
 
 export const projects: Project[] = [
   {
-    title: "Commercial Pavement Investigation",
-    type: "Geotechnical / Pavements",
-    description:
-      "Placeholder project profile for pavement testing, analysis, and rehabilitation advice for a commercial hardstand.",
-    image: "/images/project-pavement.svg"
+    title: "New Melton Hospital",
+    type: "Healthcare",
+    description: "Geotechnical and civil engineering project experience for major healthcare infrastructure."
   },
   {
-    title: "Residential Site Classification",
-    type: "Residential Engineering",
-    description:
-      "Placeholder profile for soil testing, site classification, footing advice, and builder coordination.",
-    image: "/images/project-residential.svg"
+    title: "New Footscray Hospital",
+    type: "Healthcare",
+    description: "Project involvement supporting major hospital and construction-stage engineering requirements."
   },
   {
-    title: "Working Platform Review",
-    type: "Temporary Works",
-    description:
-      "Placeholder profile for crane platform assessment, bearing capacity checks, and construction-stage reporting.",
-    image: "/images/project-platform.svg"
+    title: "Warringal Private Hospital",
+    type: "Healthcare",
+    description: "Engineering support experience for private hospital works and associated site conditions."
+  },
+  {
+    title: "Warrnambool Hospital",
+    type: "Healthcare",
+    description: "Regional healthcare project experience involving practical geotechnical and civil input."
+  },
+  {
+    title: "Monash Children Hospital",
+    type: "Healthcare",
+    description: "Hospital project experience supporting engineering assessment, coordination, and delivery."
+  },
+  {
+    title: "Pakenham Water Treatment Plant",
+    type: "Infrastructure",
+    description: "Infrastructure project experience for water treatment and related civil engineering works."
+  },
+  {
+    title: "Grants Road Pavement Dipping",
+    type: "Pavements",
+    description: "Pavement-related project experience involving site review, investigation, and reporting."
+  },
+  {
+    title: "Amazon Data Centre - Cobblebank",
+    type: "Data Centre",
+    description: "Commercial infrastructure experience supporting data centre project requirements."
   }
 ];
 

@@ -11,8 +11,8 @@ export function ProjectsPreview() {
         <div className="flex flex-col gap-6 sm:flex-row sm:items-end sm:justify-between">
           <SectionHeading
             eyebrow="Projects"
-            title="Representative work areas"
-            description="Project image placeholders are ready for real gallery photography, case studies, or completed site work when available."
+            title="Selected project experience"
+            description="A concise project list without photos for now, ready to expand into full case studies or a gallery later."
           />
           <ButtonLink href="/projects" variant="secondary">
             View projects

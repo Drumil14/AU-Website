@@ -57,7 +57,7 @@ export default function ContactPage() {
                 <div className="flex h-full items-center justify-center rounded-md bg-steel-100 text-center text-sm font-semibold text-steel-500">
                   Map placeholder
                   <br />
-                  Clayton VIC 3168
+                  Oakleigh East VIC 3166
                 </div>
               </div>
             </aside>
